@@ -126,3 +126,6 @@ function random(min,max) {
 let form = ['arrow1','arrow2','nonagon','message','romb']
 let randomform=form[random(0,form.length)]
 console.log(randomform);
+
+
+console.log(1);
